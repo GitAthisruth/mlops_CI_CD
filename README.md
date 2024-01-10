@@ -1,1 +1,3 @@
 # mlops_CI_CD
+
+AWS DEPLOYMENT
