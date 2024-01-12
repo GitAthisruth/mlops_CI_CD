@@ -83,7 +83,6 @@ jobs:
       
       
       - name: Pull latest images
-
         env:
           ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
           ECR_REPOSITORY: ${{ secrets.ECR_REPOSITORY_NAME }}
