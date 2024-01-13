@@ -20,7 +20,7 @@ def get_requirements(file_path: str) -> List[str]:
 
 
 setup(
-    name="mlproject",
+    name="mlops_CI_CD",
     version="0.0.1",
     author="athisruth",
     author_email="athisruthmsatheesh98@gmail.com",
