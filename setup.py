@@ -22,7 +22,7 @@ def get_requirements(file_path: str) -> List[str]:
 setup(
     name="mlops_CI_CD",
     version="0.0.1",
-    author="athisruth",
+    author="Athisruth",
     author_email="athisruthmsatheesh98@gmail.com",
     packages=find_packages(),
     install_requires=get_requirements("requirements.txt"),
